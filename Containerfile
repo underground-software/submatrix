@@ -1,4 +1,4 @@
-FROM alpine:latest as class_matrix
+FROM alpine:latest as submatrix
 
 RUN apk add synapse
 
